@@ -1,0 +1,61 @@
+
+H
+gatsby/src/pages/404.tsx,0/7/07a3e01d4aba3f642b399a11a3344744ce35d4d5
+J
+gatsby/src/pages/order.tsx,7/4/740b9205ef14705fec1f943b00f4d7a91a939319
+M
+gatsby/src/components/Nav.tsx,7/6/766b128adfba3b10c2b2f1c639a8d67610fa1935
+J
+gatsby/src/pages/beers.tsx,d/a/da4a004c8be22d0f46bb395312c533643b475308
+K
+gatsby/src/pages/pizzas.tsx,7/1/7120052d34e3af07e6023f2f3a20a791ee621fb0
+P
+ gatsby/src/pages/slicemaster.tsx,b/2/b2632bed50a2387c8e515abd4f599750ee2c5a45
+J
+gatsby/src/pages/index.tsx,f/b/fbc1e2965316129f1d6f5b23cae377e80cff4c24
+P
+ gatsby/src/components/Footer.tsx,7/f/7f37caf6101f053455a7d77fca38766f822bbeeb
+D
+gatsby/gatsby-ssr.js,4/2/4218e9411ff5450ae662551f64a8223b918b31b8
+H
+gatsby/gatsby-browser.js,a/9/a9033539957e3b831f5e5dc0490e91413e6bc231
+O
+gatsby/src/assets/images/bg.svg,e/4/e45781320b67c9e88959ea3a257f5a4e6d94b345
+T
+$gatsby/src/assets/images/stripes.svg,1/6/1636068d0d8935f95a0c00ba83099b36ea343464
+Q
+!gatsby/src/styles/GlobalStyles.js,b/6/b69cf6d7e667b9e77a37cca8d288a5c13d70517b
+P
+ gatsby/src/components/Layout.tsx,1/2/12779d3c71c747e6bf26049428f3d57476793d96
+O
+gatsby/src/styles/Typography.js,4/4/44badaa48c2fe0a61e0d04f748d27996f3891a7a
+G
+gatsby/gatsby-config.js,d/9/d976e2a3c149c3e3a8fc283c6cda3b7796426050
+F
+gatsby/static/logo.svg,b/0/b04423edc2c0a8d11d118ca7afed5b4a31f97fcc
+N
+gatsby/src/components/Logo.tsx,7/e/7ed3a9ae4c864265a97bdc1b92a47a6df076c74c
+B
+sanity/sanity.json,2/5/2549695875b824f94f2cb25c7b7a96cfd1ce7f9c
+H
+sanity/schemas/schema.js,4/4/44b5fb49554d76e69cc004942e7a9b21d2b6aca3
+G
+sanity/schemas/pizza.js,a/a/aa0756b0afbe7f0eb978ae08f30227353ce5cf6d
+I
+sanity/schemas/topping.js,b/2/b2eb030d45006f2f6770a49ff9e52b814880c023
+H
+sanity/schemas/person.js,8/6/86d5eec0c55a93e38eab3917d2ef6853af15ff3f
+P
+ sanity/components/PriceInput.tsx,e/4/e4233f22823029c19bd0a8406c003b8b9c73f495
+;
+gatsby/.env,a/2/a294187f4c068c12f17e7b3bc9a6d95c937af098
+S
+#gatsby/src/components/PizzaList.tsx,4/7/4798c3063f2bb7b9aeb22a5310c25c170dc29ff0
+X
+(gatsby/src/components/ToppingsFilter.tsx,7/9/796a332bd42cd6ab708432165bbcd7130215273f
+E
+gatsby/gatsby-node.js,4/1/4167863f5d8e8a35f9df63b8718aec2686e35c5d
+N
+gatsby/src/templates/Pizza.tsx,0/1/0170c5f158d8cba1f000615ede0c4f5d14ccb31e
+T
+$gatsby/src/components/Pagination.tsx,3/2/326550497fbda7df028e8c596fbb0997d62aa8c3
