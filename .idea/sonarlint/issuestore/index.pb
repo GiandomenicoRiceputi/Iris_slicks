@@ -9,8 +9,6 @@ J
 gatsby/src/pages/beers.tsx,d/a/da4a004c8be22d0f46bb395312c533643b475308
 K
 gatsby/src/pages/pizzas.tsx,7/1/7120052d34e3af07e6023f2f3a20a791ee621fb0
-P
- gatsby/src/pages/slicemaster.tsx,b/2/b2632bed50a2387c8e515abd4f599750ee2c5a45
 J
 gatsby/src/pages/index.tsx,f/b/fbc1e2965316129f1d6f5b23cae377e80cff4c24
 P
@@ -59,3 +57,45 @@ N
 gatsby/src/templates/Pizza.tsx,0/1/0170c5f158d8cba1f000615ede0c4f5d14ccb31e
 T
 $gatsby/src/components/Pagination.tsx,3/2/326550497fbda7df028e8c596fbb0997d62aa8c3
+M
+gatsby/src/components/SEO.tsx,f/9/f993a8c6c317600a109641d571ca6935e41f1333
+Q
+!gatsby/src/pages/slicemasters.tsx,b/b/bbbb800e6a479a0e2dcbe6c42d20a629617bd85e
+T
+$gatsby/src/templates/Slicemaster.tsx,a/1/a12fb514ad7ac226ca2886af68d0f4418529e187
+L
+gatsby/src/utils/useForm.tsx,d/b/dbe701b8ad2ff167f8c2153564b9579cca2d1fd3
+X
+(gatsby/src/utils/calculatePizzaPrice.tsx,c/d/cd924123e44162b62016d3aeed7986dc015b81b7
+P
+ gatsby/src/utils/formatMoney.tsx,3/c/3cf56144da847453596917058453fa1fbc4d1b49
+P
+ gatsby/src/styles/OrderStyles.js,e/1/e1bbd9cf6f4f98d40eb57d1485fa02b3d7e28764
+S
+#gatsby/src/styles/MenuItemStyles.js,3/8/382a1d28e31ad39ea96825166d5bc0046fa4e28d
+T
+$gatsby/src/components/PizzaOrder.tsx,d/5/d5729ae8d57d4162f149183c5d28dc23cafcd452
+M
+gatsby/src/utils/usePizza.tsx,6/b/6b8286bc0cfae87ad06e8f1321146364930f0f3a
+X
+(gatsby/src/utils/calculateOrderTotal.tsx,6/8/68a1ce03360b529d2a92a1e69f935c7e1e4fed60
+V
+&gatsby/src/components/OrderContext.tsx,a/f/afbd27a8c6a1e346f416c505c09b529d12a213e6
+O
+gatsby/functions/hello/hello.js,6/c/6c28752c2f0cd53241f5488a1411b214f7b3add1
+X
+(gatsby/functions/placeOrder/package.json,a/2/a25e2f5252e48093b5b3fce57aa0c52834baede4
+C
+gatsby/netlify.toml,a/1/a1d12fa3424bbd18a8bab58da36be26497be0057
+Y
+)gatsby/src/utils/attachNamesAndPrices.tsx,c/8/c8538a75364267c53dd14056c4c38125f38bbb14
+Y
+)gatsby/functions/placeOrder/placeOrder.js,d/a/da90a01d6deac39ee3697b75176daed5decc5645
+O
+sanity/schemas/storeSettings.js,8/0/805cca029b690a7912eb6db5d99085c835c61b51
+C
+sanity/package.json,4/5/45e80e323417831ab2b02cc01ba190327ab242e0
+A
+sanity/sidebar.js,6/1/61be63dea5d0876c1da5d8ee02151070f8353c41
+R
+"gatsby/src/utils/useLatestData.tsx,3/1/31db07d0c1cc7a3477ef04d2a2902d7ab003d6a9
