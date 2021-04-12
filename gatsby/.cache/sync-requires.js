@@ -5,7 +5,6 @@ const preferDefault = m => (m && m.default) || m
 
 
 exports.components = {
-  "component---cache-dev-404-page-js": (preferDefault(require("/Users/giando/WebstormProjects/JAM_STACK/master-gatsby-master/starter-files/gatsby/.cache/dev-404-page.js"))),
   "component---src-pages-404-tsx": (preferDefault(require("/Users/giando/WebstormProjects/JAM_STACK/master-gatsby-master/starter-files/gatsby/src/pages/404.tsx"))),
   "component---src-pages-beers-tsx": (preferDefault(require("/Users/giando/WebstormProjects/JAM_STACK/master-gatsby-master/starter-files/gatsby/src/pages/beers.tsx"))),
   "component---src-pages-index-tsx": (preferDefault(require("/Users/giando/WebstormProjects/JAM_STACK/master-gatsby-master/starter-files/gatsby/src/pages/index.tsx"))),
